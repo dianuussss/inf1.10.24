@@ -7,7 +7,8 @@
 3. Я поняла, что для Linux ubuntu открытие файла это "gedit", а для терминала MacOS "open"
  <img width="1470" alt="Снимок экрана 2024-09-26 в 16 43 34" src="https://github.com/user-attachments/assets/920a14ce-6dc1-41aa-b09b-fcef2f16eed6">
 4. Вписана по условию необходимый скрипт
-![Uploading Снимок экрана 2024-09-26 в 16.43.34.png…]()
+<img width="1470" alt="Снимок экрана 2024-09-26 в 16 43 34" src="https://github.com/user-attachments/assets/d32ff574-b51e-43fd-b13a-1191f44e1cd2">
+
 5. Закрыла файл. Запустила bash скрипт и мне отобразилась нужная нам строка "Welcome to ITMO University"
 <img width="1470" alt="Снимок экрана 2024-09-26 в 16 44 25" src="https://github.com/user-attachments/assets/d18859cc-81c6-46df-ae9f-4d6616f72c99">
 ## Задача
